@@ -1,0 +1,41 @@
+.col-lg-3 img{
+   max-width: 100%;
+   max-height: 70%;
+
+}
+.col.lg-3 {
+    height: 500rem;
+}
+.container{
+    padding-top: 0.50rem;
+    height: 400px;
+}
+.text-center-h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 1em;
+}
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+.d-block.w-100{
+    height: 2em 2em;
+}
+.navbar-expand-lg{
+    background-color: black;
+
+}
+.control-label.col-sm-1{
+    color: rgb(45, 108, 124);
+}
+.btn.btn-default{
+    background-color: rgb(128, 58, 58);
+    color: white;
+}
